@@ -17,7 +17,7 @@ The CNN model comprises the following layers:
 ## Training Configuration
 
 - **Batch Size**: 32
-- **Epochs**: 50
+- **Epochs**: 200
 - **Optimizer**: Adam
 - **Loss Function**: Binary Cross-Entropy
 
