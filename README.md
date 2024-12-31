@@ -2,6 +2,7 @@
 
 This repository contains a Convolutional Neural Network (CNN) model designed to detect breast cancer from histopathological images. The model is trained to classify images into benign and malignant categories, aiding in the early detection and diagnosis of breast cancer.
 
+## Overview
 
 Breast cancer is among the most common cancers worldwide. Early and accurate detection is crucial for effective treatment. This project leverages deep learning techniques, specifically CNNs, to analyze histopathological images and classify them as benign or malignant.
 
