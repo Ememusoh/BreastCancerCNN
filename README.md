@@ -35,7 +35,7 @@ The model's performance was evaluated on training, validation, and test datasets
 
 - **Training Accuracy**: 0.9568
 - **Training Precision**: 0.8731
- **Training Loss**: 0.1085
+- **Training Loss**: 0.1085
 
 ### Validation Metrics
 
