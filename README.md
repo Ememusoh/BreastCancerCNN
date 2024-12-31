@@ -54,7 +54,7 @@ The model's performance was evaluated on training, validation, and test datasets
 [[1047   80]
  [  92  126]]
 
-![Confusion Matrix](Confusion_matrix.png)
+![Confusion Matrix](Confusion-matrix.png)
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code in your own projects.
